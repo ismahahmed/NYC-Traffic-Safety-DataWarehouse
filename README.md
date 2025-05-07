@@ -2,6 +2,10 @@
 
 A data warehouse project for analyzing NYC traffic safety and speed reducer requests. Includes data cleaning, dimensional modeling, and ETL processes to load crash and request data into PostgreSQL for insights on trends, contributing factors, and infrastructure improvements.
 
+## Dimentional Model 
+
+![image](https://github.com/user-attachments/assets/8283e3a1-c985-4266-9603-76a314d75497)
+
 
 ### Project Directory Structure
 
