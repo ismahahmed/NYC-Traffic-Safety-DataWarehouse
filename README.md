@@ -3,8 +3,9 @@
 A data warehouse project for analyzing NYC traffic safety and speed reducer requests. Includes data cleaning, dimensional modeling, and ETL processes to load crash and request data into PostgreSQL for insights on trends, contributing factors, and infrastructure improvements.
 
 
-## Directory Structure 
+### Project Directory Structure
 
+```
 NYC-Traffic-Safety-Insights/
 ├── raw_data/                     # Raw input data files
 ├── postgres_files/               # SQL scripts for database schema
@@ -13,8 +14,7 @@ NYC-Traffic-Safety-Insights/
 ├── Write_To_Postgres.py          # Script for loading data into PostgreSQL
 ├── vehicle_mapping.csv           # Vehicle type mapping file
 ├── config.py                     # Configuration file for database connection
-
-
+```
 
 ### **Project Workflow**
 1. **Data Cleaning**: Removes duplicates, fills missing values, and standardizes columns.
