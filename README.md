@@ -25,7 +25,10 @@ NYC-Traffic-Safety-Insights/
 2. **Dimensional Modeling**: Creates fact and dimension tables for analysis.
 3. **ETL Process**: Extracts raw data, transforms it, and loads it into a PostgreSQL database.
 
+![image](https://github.com/user-attachments/assets/f5028959-ec2f-4020-a730-628dd154e187)
+
 ---
+
 
 ### **Technologies Used**
 - **Python**: Data processing and ETL pipeline.
